@@ -1,7 +1,7 @@
 
 * [Slideshow Presentation](https://github.com/KImondorose/phase_3_project/blob/main/presentation%20(2).pdf)
 * [Jupyter Notebook with Cleaning & Questions](https://github.com/KImondorose/phase_3_project/blob/main/notebook.ipynb)
-* [Repository pdf]()
+* [Repository pdf](https://github.com/KImondorose/phase_3_project-Pump-it-Up-Data-Mining-the-Water-Table/blob/main/repository.pdf)
 * [Notebook PDF](https://github.com/KImondorose/phase_3_project/blob/main/notebook.pdf)
 * [Data Sources](https://github.com/KImondorose/phase_3_project/tree/main/data)
 * 
