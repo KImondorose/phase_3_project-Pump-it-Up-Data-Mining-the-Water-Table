@@ -2,7 +2,7 @@
 * [Slideshow Presentation](https://github.com/KImondorose/phase_3_project/blob/main/presentation%20(2).pdf)
 * [Jupyter Notebook with Cleaning & Questions](https://github.com/KImondorose/phase_3_project/blob/main/notebook.ipynb)
 * [Repository pdf]()
-* [Notebook PDF](https://github.com/KImondorose/dsc-phase-1-project/blob/main/notebook.pdf)
+* [Notebook PDF](https://github.com/KImondorose/phase_3_project/blob/main/notebook.pdf)
 * [Data Sources](https://github.com/KImondorose/phase_3_project/tree/main/data)
 * 
 
